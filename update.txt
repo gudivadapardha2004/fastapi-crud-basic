@@ -1,0 +1,2 @@
+patch endpoint for every field finished
+auto generate primary key(UUID) finished 
